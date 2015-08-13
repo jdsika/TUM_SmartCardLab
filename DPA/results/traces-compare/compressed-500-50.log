@@ -1,0 +1,351 @@
+Using file: mat/card-5500-compressed.mat
+Starting DPA...
+
+DPA 1. run:
+	Traces:	n = 500 (2404 samples per trace)
+	Time:	1.51s (0.09s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 2. run:
+	Traces:	n = 490 (2404 samples per trace)
+	Time:	1.45s (0.09s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 3. run:
+	Traces:	n = 480 (2404 samples per trace)
+	Time:	1.47s (0.09s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 4. run:
+	Traces:	n = 470 (2404 samples per trace)
+	Time:	1.38s (0.09s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 5. run:
+	Traces:	n = 460 (2404 samples per trace)
+	Time:	1.39s (0.09s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 6. run:
+	Traces:	n = 450 (2404 samples per trace)
+	Time:	1.34s (0.08s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 7. run:
+	Traces:	n = 440 (2404 samples per trace)
+	Time:	1.34s (0.08s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 8. run:
+	Traces:	n = 430 (2404 samples per trace)
+	Time:	1.27s (0.08s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 9. run:
+	Traces:	n = 420 (2404 samples per trace)
+	Time:	1.33s (0.08s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 10. run:
+	Traces:	n = 410 (2404 samples per trace)
+	Time:	1.26s (0.08s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 11. run:
+	Traces:	n = 400 (2404 samples per trace)
+	Time:	1.23s (0.08s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 12. run:
+	Traces:	n = 390 (2404 samples per trace)
+	Time:	1.19s (0.07s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 13. run:
+	Traces:	n = 380 (2404 samples per trace)
+	Time:	1.12s (0.07s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 14. run:
+	Traces:	n = 370 (2404 samples per trace)
+	Time:	1.15s (0.07s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 15. run:
+	Traces:	n = 360 (2404 samples per trace)
+	Time:	1.09s (0.07s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 16. run:
+	Traces:	n = 350 (2404 samples per trace)
+	Time:	1.06s (0.07s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 17. run:
+	Traces:	n = 340 (2404 samples per trace)
+	Time:	1.07s (0.07s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 18. run:
+	Traces:	n = 330 (2404 samples per trace)
+	Time:	1.05s (0.07s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 19. run:
+	Traces:	n = 320 (2404 samples per trace)
+	Time:	1.00s (0.06s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 20. run:
+	Traces:	n = 310 (2404 samples per trace)
+	Time:	1.01s (0.06s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 21. run:
+	Traces:	n = 300 (2404 samples per trace)
+	Time:	1.10s (0.07s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 22. run:
+	Traces:	n = 290 (2404 samples per trace)
+	Time:	1.20s (0.08s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 23. run:
+	Traces:	n = 280 (2404 samples per trace)
+	Time:	1.16s (0.07s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 24. run:
+	Traces:	n = 270 (2404 samples per trace)
+	Time:	0.98s (0.06s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 25. run:
+	Traces:	n = 260 (2404 samples per trace)
+	Time:	0.95s (0.06s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 26. run:
+	Traces:	n = 250 (2404 samples per trace)
+	Time:	1.00s (0.06s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 27. run:
+	Traces:	n = 240 (2404 samples per trace)
+	Time:	1.12s (0.07s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 28. run:
+	Traces:	n = 230 (2404 samples per trace)
+	Time:	1.06s (0.07s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 29. run:
+	Traces:	n = 220 (2404 samples per trace)
+	Time:	1.09s (0.07s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 30. run:
+	Traces:	n = 210 (2404 samples per trace)
+	Time:	0.93s (0.06s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 31. run:
+	Traces:	n = 200 (2404 samples per trace)
+	Time:	0.92s (0.06s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 32. run:
+	Traces:	n = 190 (2404 samples per trace)
+	Time:	1.01s (0.06s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 33. run:
+	Traces:	n = 180 (2404 samples per trace)
+	Time:	0.85s (0.05s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 34. run:
+	Traces:	n = 170 (2404 samples per trace)
+	Time:	0.78s (0.05s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 35. run:
+	Traces:	n = 160 (2404 samples per trace)
+	Time:	0.79s (0.05s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 36. run:
+	Traces:	n = 150 (2404 samples per trace)
+	Time:	0.72s (0.04s per key byte)
+	Key:	0x6489211588B4CEE0184A1444E4DFC758
+	Test:	SUCCESS!
+
+
+DPA 37. run:
+	Traces:	n = 140 (2404 samples per trace)
+	Time:	0.69s (0.04s per key byte)
+	Key:	0xDD89211588B4CEE0184A1444E4DFC758
+	Test:	FAIL!
+
+
+DPA 38. run:
+	Traces:	n = 130 (2404 samples per trace)
+	Time:	0.77s (0.05s per key byte)
+	Key:	0xDD89211588B4CEE0184A1444E4DFC758
+	Test:	FAIL!
+
+
+DPA 39. run:
+	Traces:	n = 120 (2404 samples per trace)
+	Time:	0.66s (0.04s per key byte)
+	Key:	0xDD89211588B4CEE0184A1444E4DFC758
+	Test:	FAIL!
+
+
+DPA 40. run:
+	Traces:	n = 110 (2404 samples per trace)
+	Time:	0.65s (0.04s per key byte)
+	Key:	0x2489211588B4CEE0184A1444E4DFC758
+	Test:	FAIL!
+
+
+DPA 41. run:
+	Traces:	n = 100 (2404 samples per trace)
+	Time:	0.69s (0.04s per key byte)
+	Key:	0xDD89211588B4CEE0184A1444E4DFC758
+	Test:	FAIL!
+
+
+DPA 42. run:
+	Traces:	n = 90 (2404 samples per trace)
+	Time:	0.57s (0.04s per key byte)
+	Key:	0x6789211588B4CEEF184A1444E4DFC758
+	Test:	FAIL!
+
+
+DPA 43. run:
+	Traces:	n = 80 (2404 samples per trace)
+	Time:	0.59s (0.04s per key byte)
+	Key:	0x678921151CB42DEF9A4A1444E4DFC758
+	Test:	FAIL!
+
+
+DPA 44. run:
+	Traces:	n = 70 (2404 samples per trace)
+	Time:	0.52s (0.03s per key byte)
+	Key:	0x678921151CB42DEF9A4A1417E4DFC752
+	Test:	FAIL!
+
+
+DPA 45. run:
+	Traces:	n = 60 (2404 samples per trace)
+	Time:	0.44s (0.03s per key byte)
+	Key:	0x6747211509B42DEF9A4A140ED3DFC7BF
+	Test:	FAIL!
+
+
+DPA 46. run:
+	Traces:	n = 50 (2404 samples per trace)
+	Time:	0.43s (0.03s per key byte)
+	Key:	0xB0432132D0B45F1F9A4A14885BDFC7DF
+	Test:	FAIL!
+
+
+DPA 47. run:
+	Traces:	n = 40 (2404 samples per trace)
+	Time:	0.41s (0.03s per key byte)
+	Key:	0x50F345ECA8B45FEFFE4A14885BDFDF91
+	Test:	FAIL!
+
+
+DPA 48. run:
+	Traces:	n = 30 (2404 samples per trace)
+	Time:	0.36s (0.02s per key byte)
+	Key:	0xC94721A1CA06B06A9BE61488C9DFDF8C
+	Test:	FAIL!
+
+
+DPA 49. run:
+	Traces:	n = 20 (2404 samples per trace)
+	Time:	0.34s (0.02s per key byte)
+	Key:	0xF292B81D554001F739521413B8ED0ACB
+	Test:	FAIL!
+
+
+DPA 50. run:
+	Traces:	n = 10 (2404 samples per trace)
+	Time:	0.32s (0.02s per key byte)
+	Key:	0xF247B893A9894B00568A98EE468D0ADF
+	Test:	FAIL!

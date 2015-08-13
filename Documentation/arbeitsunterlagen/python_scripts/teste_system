@@ -1,0 +1,16 @@
+#!/bin/bash
+
+if [ "X$1" == "X" ]
+then
+  echo "Beschreibung:"
+  echo "$0 video-datei"
+  echo ""
+  echo "Die Video-Datei wird dann vom streamer.py verschluesselt,"
+  echo "vom receiver.py mit Hilfe der Karte entschluesselt"
+  echo "und von mplayer abgespielt."
+  echo "Achtung: Das funktioniert natuerlich nur, wenn der masterkey"
+  echo "in streamer.py mit dem Schluessel in der Karte uebereinstimmt!"
+  exit 1
+fi
+
+cat $1 | python streamer.py | python receiver.py | mplayer -cache 300 -

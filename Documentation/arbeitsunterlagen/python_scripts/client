@@ -1,0 +1,14 @@
+#!/bin/bash
+
+if [ "X$1" == "X" -o "X$2" == "X" ]
+then
+  echo "Beschreibung:"
+  echo "$0 server port"
+  echo ""
+  echo "Es wird eine Verbindung zum Server server am Port port"
+  echo "aufgebaut und vom receiver.py mit Hilfe der Karte entschluesselt"
+  echo "und von mplayer abgespielt."
+  exit 1
+fi
+
+nc $1 $2 | python receiver.py | mplayer -cache 300 - 2>/dev/null

@@ -1,0 +1,40 @@
+# Size
+256: 4494
+common: 582
+dec: 2602
+enc: 2578
+rand: 5444
+total: 7464
+# Speed
+fhreefish test program
+**********************
+TIME:  9058 ( 283): Encrypt 32 bytes
+TIME:  9168 ( 286): Decrypt 32 bytes
+TIME:  9038 ( 282): Encrypt 32 bytes in-place
+TIME:  9170 ( 286): Decrypt 32 bytes in-place
+TIME:   317 cycles: Load default IV
+TIME: 19061 ( 595): Hash 32 bytes using the default IV
+TIME: 28906 ( 602): Hash 48 bytes using the default IV
+TIME:   252 cycles: Multi-block hash init
+TIME: 18840 ( 588): Finish using single full block
+TIME:   252 cycles: Multi-block hash init
+TIME:  9821 ( 306): Add single 32-byte block
+TIME: 18930 (1183): Finish using half block
+TIME:   249 cycles: Multi-block hash init
+TIME:  9821 ( 306): Add single 32-byte block
+TIME:  9821 ( 306): Add single 32-byte block
+TIME: 18840 cycles: Finish using 32 bytes
+TIME: 10330 cycles: Calculate personalized IV
+TIME: 29218 cycles: Seed PRNG
+TIME: 18838 cycles: First byte of random data
+TIME:    15 cycles: second byte of random data
+TIME:    15 cycles: 32nd byte of random data
+TIME:  9320 cycles: 33rd byte of random data
+TIME:  9915 ( 309): 32 bytes of random data (bytewise)
+TIME:  9329 ( 291): 32 bytes of random data in a single block
+TIME: 29055 cycles: Reseed PRNG
+TIME:  9514 cycles: Reinit PRNG
+TIME:  9320 cycles: Overhead per 32-byte block
+TIME:   495 ( 123): 4 fetches of 1 random byte in secure mode
+SystemClock::Endless stopped
+number of cpu cycles simulated: 608666
